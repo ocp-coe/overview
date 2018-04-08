@@ -13,7 +13,13 @@ Overview
 Repos
 --------
 
-1. Demos-Workshops - [Demos-Workshops](https://github.com/ocp-coe/demos-workshops/) 
+1. Demos-Workshops - [Demos-Workshops](https://github.com/ocp-coe/demos-workshops/)
+
+1. POC's - [POC's](https://github.com/ocp-coe/pocs/)
+
+1. Reference Architectures - [Reference Architectures](https://github.com/ocp-coe/reference-architectures/)
+
+1. Customer Enablement - [Customer Enablement](https://github.com/ocp-coe/customer-enablement/)
 
 
 
