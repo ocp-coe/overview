@@ -10,7 +10,7 @@ Overview
 ![OpenShift Center of Excellence Project Overview](docs/images/ocp-coe-overview.png?raw=true "OpenShift Center of Excellence Project Overview")
 
 
-Overview
+Repos
 --------
 
 1. Demos-Workshops - [Demos-Workshops](https://github.com/ocp-coe/demos-workshops/) 
